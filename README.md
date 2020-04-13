@@ -19,10 +19,10 @@
     - background: url("img/header.jpeg") center center / cover no-repeat (maybe keep this remaining stuff as a comment)
 *   Cards
     - Lots of stuff that we can do per the docs!
-    - section#gallery > div.container > div.card > img.card-image-top with src from the uploaded ones
+    - section#gallery > div.container > div.card > img.card-img-top with src from the uploaded ones
     - In the card, after img > div.card-body > h5.card-title ("First"), p.card-text ("LI Text"), a.btn.btn-outline-success.btn-small ("Download")
     - Duplicate, then btn-outline-danger and instead of download, use a FA icon for the heart
 *   Card sizing
     - After lg, goes to 3 across
-    - Add a div.row > div.col-lg-4.col and then add the card div. Then duplicate the col-lg-4 twice and change the pics and descriptions
+    - Add a div.row > div.col-lg-4 and then add the card div. Then duplicate the col-lg-4 twice and change the pics and descriptions
     - For the margin, after the col, mb-3 or mb-4
